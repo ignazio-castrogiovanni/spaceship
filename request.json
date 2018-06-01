@@ -1,0 +1,33 @@
+{
+   "covers":[
+      {
+         "policyDetails":{
+            "dialdown":0,
+            "premiumLoading":{
+               "medicalLoadingPercentage":0,
+               "medicalLoadingPerMille":0,
+               "pastimeLoadingPercentage":0,
+               "pastimeLoadingPerMille":0
+            },
+            "premiumPaymentFrequency":"Annual",
+            "premiumTypeId":1,
+            "riceWarnerBenefitIds":[
+               0
+            ],
+            "ricewarnercommissionTypeId":1,
+            "sumInsured":100000,
+            "taxEnvironmentId":1
+         },
+         "ricewarnerCoverId":9
+      }
+   ],
+   "personalDetails":{
+      "ageNextBirthday":[
+         25
+      ],
+      "gender":"MALE",
+      "occupation":"Accountant - Qualified (professionally or degree)",
+      "smoker":false,
+      "state":"NSW"
+   }
+}
